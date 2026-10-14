@@ -4,6 +4,7 @@ This only runs on Laptops and desktops up to 23"
 
 ## Description
 This project was made with HTML, CSS, Javascript and made public using Github Pages.
+I built this project to help me practice working with numbers in javascript, it did help lots. im eventually going to make a calculator and this project will have taught me a few things that i need to make it.
 This is a percentage calculator. It calculates the percentage of a amount e.g 25% of 100 = 25
 To use it:
 - Enter the amount/number (e.g 100) you want to find the percentage of
