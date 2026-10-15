@@ -18,7 +18,25 @@ And Press clear if you would like to find a percentage of another amount.
 ## Screenshots
 <img width="3018" height="1928" alt="image" src="https://github.com/user-attachments/assets/366cb129-6c0c-43ea-b1a7-f7e6a27a48cb" />
 
+## Tech Stack
+- HTML -  Website Structure/order 
+- CSS - Designing the HTML elements
+- Javascript - Functionality
+- Github Pages - Hosting/ Making it public
 
+## Run Locally
+- Download the project files - index.html, style.css and script.js
+- Put all files into one folder on your device
+- Open index.html in your web browser to use the counter.
+
+## Modify Locally
+- Download the project files - index.html, style.css and script.js
+- Put all files into one folder on your device
+- Open index.html to modify the webpage structure 
+- Open style.css to change the design
+- Open script.js to modify features
+- Reload the page to see your changes made
+- You could also host it using Github pages 
 
 
 ## Dependencies
