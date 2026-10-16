@@ -26,17 +26,16 @@ And Press clear if you would like to find a percentage of another amount.
 
 ## Run Locally
 - Download the project files - index.html, style.css and script.js
-- Put all files into one folder on your device
-- Open index.html in your web browser to use the counter.
+- Place all the downloaded files into one folder on your Laptop/Desktop.
+- Open index.html in your web browser to use the Percentage calculator.
 
 ## Modify Locally
 - Download the project files - index.html, style.css and script.js
-- Put all files into one folder on your device
-- Open index.html to modify the webpage structure 
-- Open style.css to change the design
-- Open script.js to modify features
-- Reload the page to see your changes made
-- You could also host it using Github pages 
+- Place all the downloaded files into one folder on your Laptop/Desktop.
+- Open index.html to change the webpage structure / order.
+- Open style.css to style the html elements the way you want.
+- Open script.js to change the features of the elements.
+- Reload the page to see your changes made (changes only for you) or you could host it using Github pages to make it public.
 
 
 ## Dependencies
